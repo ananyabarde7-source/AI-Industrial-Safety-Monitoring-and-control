@@ -39,6 +39,6 @@ Possible improvements include email notifications, multi-camera support, cloud-b
 
 
 ## Author 
-  Aishwaray Bhagwat
+  Ananya Barde
   Symbiosis institue of technology, Pune
   
