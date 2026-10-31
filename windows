@@ -1,3 +1,0 @@
-# Windows
-
-Contains the Windows-based robot control implementation, including communication with the Raspberry Pi, Dobot Magician control, and safety monitoring scripts.
