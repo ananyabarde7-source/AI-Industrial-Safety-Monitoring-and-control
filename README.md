@@ -191,8 +191,8 @@ The Pi dashboard shows the live annotated video, system status (camera, YOLO), z
 ## Author
 
 Ananya Barde
-Symbiosis Institute of Technology, Pune
-[TODO: add team members / guide / Dobot-side contributors]
+
+[TODO: aishwaray bhagwat / dr pankaj jain ]
 
 ## License
 
