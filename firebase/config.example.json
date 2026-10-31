@@ -1,0 +1,9 @@
+{
+  "firebase_api_key": "YOUR_FIREBASE_WEB_API_KEY",
+  "database_url": "https://YOUR_PROJECT-default-rtdb.firebaseio.com",
+  "firebase_email": "YOUR_FIREBASE_AUTH_EMAIL",
+  "firebase_password": "YOUR_FIREBASE_AUTH_PASSWORD",
+  "pi_host": "pi@raspberrypi.local",
+  "pi_log_file": "/home/pi/df/logs/events.log",
+  "database_path": "users/{uid}/events"
+}
