@@ -6,7 +6,11 @@ The project grew from a virtual-fencing intrusion detector (still included in le
 
 Demo
 
-Full demo video: [TODO: add YouTube link]
+Full demo video: 
+
+https://github.com/user-attachments/assets/8fa6d9eb-2474-4256-87d4-1b7adc875eb1
+
+
 
 Disclaimer: This is an academic prototype. It is not a certified safety system and must not replace a hardware emergency stop or any standards-compliant safeguarding.
 
